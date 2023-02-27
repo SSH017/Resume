@@ -4,7 +4,6 @@ body {
     background-color: #F5F7FA;
 }
 
-/* main styles */
 
 .main {
 
@@ -20,7 +19,6 @@ body {
     padding: 105px 90px;
 }
 
-/* about styles */
 
 .about {
     margin-bottom: 40px;
@@ -52,8 +50,6 @@ body {
     color: #595959;
     width: 400px;
 }
-
-/* project styles */
 
 .projects {
     margin-bottom: 50px;
@@ -95,8 +91,6 @@ body {
     margin-left: 10px;
 }
 
-
-/* work styles */
 
 .work {
     margin-bottom: 45px;
@@ -157,8 +151,6 @@ body {
     color: #595959;
 }
 
-/* education styles */
-
 .education {
 
 }
@@ -188,8 +180,6 @@ body {
     color: #A8A8A8;
     margin-bottom: 110px;
 }
-
-/* sidebar styles */
 
 .sidebar {
     background-color: #1E2939;
